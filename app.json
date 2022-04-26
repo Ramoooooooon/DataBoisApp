@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "bakiterror",
+    "slug": "bakiterror",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
